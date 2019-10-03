@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\CuentasCorrientes\bin\Debug\CuentasCorrientes.exe.config
+E:\Google Drive\Proyects\CuentasCorrientes\bin\Debug\CuentasCorrientes.exe
+E:\Google Drive\Proyects\CuentasCorrientes\bin\Debug\CuentasCorrientes.pdb
+E:\Google Drive\Proyects\CuentasCorrientes\obj\Debug\CuentasCorrientes.csprojAssemblyReference.cache
+E:\Google Drive\Proyects\CuentasCorrientes\obj\Debug\CuentasCorrientes.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\CuentasCorrientes\obj\Debug\CuentasCorrientes.exe
+E:\Google Drive\Proyects\CuentasCorrientes\obj\Debug\CuentasCorrientes.pdb
